@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/apl.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230906125900 -0300" stop="20230906135800 -0300" channel="Animal Planet">
+    <title lang="pt">Tubarões À Vista!</title>
+  </programme>
+  <programme start="20230906135800 -0300" stop="20230906150000 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20230906150000 -0300" stop="20230906153100 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230906153100 -0300" stop="20230906160200 -0300" channel="Animal Planet">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230906160200 -0300" stop="20230906170100 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20230906170100 -0300" stop="20230906180000 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20230906180000 -0300" stop="20230906185900 -0300" channel="Animal Planet">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+  </programme>
+  <programme start="20230906185900 -0300" stop="20230906195300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230906195300 -0300" stop="20230906204700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230906204700 -0300" stop="20230906214100 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Misteriosas Com Forrest Galante</title>
+  </programme>
+  <programme start="20230906214100 -0300" stop="20230906223500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Desconhecido com Steve Backshall</title>
+  </programme>
+  <programme start="20230906223500 -0300" stop="20230906233300 -0300" channel="Animal Planet">
+    <title lang="pt">Lendas da Natureza</title>
+  </programme>
+  <programme start="20230906233300 -0300" stop="20230907003100 -0300" channel="Animal Planet">
+    <title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
+  </programme>
+</tv>
