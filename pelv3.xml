@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/viv.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230907113000 -0300" stop="20230907121500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230907121500 -0300" stop="20230907130000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230907130000 -0300" stop="20230907134500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230907134500 -0300" stop="20230907144000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230907144000 -0300" stop="20230907153000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230907153000 -0300" stop="20230907161500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230907161500 -0300" stop="20230907164500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230907164500 -0300" stop="20230907171500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230907171500 -0300" stop="20230907180000 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230907180000 -0300" stop="20230907183000 -0300" channel="Viva">
+    <title lang="pt">As Vilãs que Amamos</title>
+  </programme>
+  <programme start="20230907183000 -0300" stop="20230907190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230907190000 -0300" stop="20230907193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230907193000 -0300" stop="20230907203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230907203000 -0300" stop="20230907211500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230907211500 -0300" stop="20230907215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230907215000 -0300" stop="20230907222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230907222000 -0300" stop="20230907225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230907225000 -0300" stop="20230907234500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230907234500 -0300" stop="20230908003000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230908003000 -0300" stop="20230908011500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230908011500 -0300" stop="20230908020000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230908020000 -0300" stop="20230908030000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230908030000 -0300" stop="20230908034500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230908034500 -0300" stop="20230908041500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230908041500 -0300" stop="20230908044500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230908044500 -0300" stop="20230908054500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230908054500 -0300" stop="20230908060000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230908060000 -0300" stop="20230908064500 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230908064500 -0300" stop="20230908071500 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230908071500 -0300" stop="20230908073000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230908073000 -0300" stop="20230908081500 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230908081500 -0300" stop="20230908090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230908090000 -0300" stop="20230908094500 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230908094500 -0300" stop="20230908101500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230908101500 -0300" stop="20230908110000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230908110000 -0300" stop="20230908113000 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230908113000 -0300" stop="20230908121500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230908121500 -0300" stop="20230908130000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230908130000 -0300" stop="20230908134500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230908134500 -0300" stop="20230908144000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230908144000 -0300" stop="20230908153000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230908153000 -0300" stop="20230908161500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230908161500 -0300" stop="20230908164500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230908164500 -0300" stop="20230908171500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230908171500 -0300" stop="20230908180000 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230908180000 -0300" stop="20230908183000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230908183000 -0300" stop="20230908190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230908190000 -0300" stop="20230908193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230908193000 -0300" stop="20230908203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230908203000 -0300" stop="20230908211500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230908211500 -0300" stop="20230908215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230908215000 -0300" stop="20230908222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230908222000 -0300" stop="20230908225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230908225000 -0300" stop="20230908234500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230908234500 -0300" stop="20230909003000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230909003000 -0300" stop="20230909011500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230909011500 -0300" stop="20230909020000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230909020000 -0300" stop="20230909030000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230909030000 -0300" stop="20230909034500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230909034500 -0300" stop="20230909041500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230909041500 -0300" stop="20230909044500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230909044500 -0300" stop="20230909054500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230909054500 -0300" stop="20230909060000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230909060000 -0300" stop="20230909064500 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230909064500 -0300" stop="20230909071500 -0300" channel="Viva">
+    <title lang="pt">Dois em Cena</title>
+  </programme>
+  <programme start="20230909071500 -0300" stop="20230909074500 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230909074500 -0300" stop="20230909083000 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230909083000 -0300" stop="20230909091500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230909091500 -0300" stop="20230909100000 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230909100000 -0300" stop="20230909104500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230909104500 -0300" stop="20230909113000 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230909113000 -0300" stop="20230909121500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230909121500 -0300" stop="20230909130000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230909130000 -0300" stop="20230909134500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230909134500 -0300" stop="20230909144000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230909144000 -0300" stop="20230909153000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230909153000 -0300" stop="20230909161500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230909161500 -0300" stop="20230909170000 -0300" channel="Viva">
+    <title lang="pt">Dois em Cena</title>
+  </programme>
+  <programme start="20230909170000 -0300" stop="20230909173000 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230909173000 -0300" stop="20230909180000 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230909180000 -0300" stop="20230909184000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230909184000 -0300" stop="20230909192000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230909192000 -0300" stop="20230909200000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230909200000 -0300" stop="20230909204000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230909204000 -0300" stop="20230909215000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230909215000 -0300" stop="20230909222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230909222000 -0300" stop="20230909225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230909225000 -0300" stop="20230909234500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230909234500 -0300" stop="20230910003000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910003000 -0300" stop="20230910011500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230910011500 -0300" stop="20230910020000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910020000 -0300" stop="20230910024500 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230910024500 -0300" stop="20230910031500 -0300" channel="Viva">
+    <title lang="pt">Dois em Cena</title>
+  </programme>
+  <programme start="20230910031500 -0300" stop="20230910034500 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230910034500 -0300" stop="20230910041500 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230910041500 -0300" stop="20230910050000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910050000 -0300" stop="20230910053000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910053000 -0300" stop="20230910060000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910060000 -0300" stop="20230910063500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910063500 -0300" stop="20230910071000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910071000 -0300" stop="20230910074500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910074500 -0300" stop="20230910082000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910082000 -0300" stop="20230910090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230910090000 -0300" stop="20230910094500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910094500 -0300" stop="20230910103000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910103000 -0300" stop="20230910111500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910111500 -0300" stop="20230910120000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910120000 -0300" stop="20230910124500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910124500 -0300" stop="20230910141500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230910141500 -0300" stop="20230910150000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910150000 -0300" stop="20230910154500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910154500 -0300" stop="20230910163000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910163000 -0300" stop="20230910171500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910171500 -0300" stop="20230910180000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910180000 -0300" stop="20230910190000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230910190000 -0300" stop="20230910194500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230910194500 -0300" stop="20230910203000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230910203000 -0300" stop="20230910211500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230910211500 -0300" stop="20230910220000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230910220000 -0300" stop="20230910224500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230910224500 -0300" stop="20230911003000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230911003000 -0300" stop="20230911010000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911010000 -0300" stop="20230911014500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911014500 -0300" stop="20230911023000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911023000 -0300" stop="20230911031500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911031500 -0300" stop="20230911040000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911040000 -0300" stop="20230911043000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911043000 -0300" stop="20230911050000 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230911050000 -0300" stop="20230911053000 -0300" channel="Viva">
+    <title lang="pt">A Cara do Pai</title>
+  </programme>
+  <programme start="20230911053000 -0300" stop="20230911060000 -0300" channel="Viva">
+    <title lang="pt">Dois em Cena</title>
+  </programme>
+  <programme start="20230911060000 -0300" stop="20230911063000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230911063000 -0300" stop="20230911064500 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230911064500 -0300" stop="20230911071500 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230911071500 -0300" stop="20230911073000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230911073000 -0300" stop="20230911081500 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230911081500 -0300" stop="20230911090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230911090000 -0300" stop="20230911094500 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230911094500 -0300" stop="20230911101500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230911101500 -0300" stop="20230911110000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230911110000 -0300" stop="20230911113000 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230911113000 -0300" stop="20230911121500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230911121500 -0300" stop="20230911130000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230911130000 -0300" stop="20230911134500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230911134500 -0300" stop="20230911144000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230911144000 -0300" stop="20230911153000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230911153000 -0300" stop="20230911161500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230911161500 -0300" stop="20230911164500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230911164500 -0300" stop="20230911171500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230911171500 -0300" stop="20230911180000 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230911180000 -0300" stop="20230911183000 -0300" channel="Viva">
+    <title lang="pt">Dois em Cena</title>
+  </programme>
+  <programme start="20230911183000 -0300" stop="20230911190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230911190000 -0300" stop="20230911193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230911193000 -0300" stop="20230911203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230911203000 -0300" stop="20230911211500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230911211500 -0300" stop="20230911215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230911215000 -0300" stop="20230911222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230911222000 -0300" stop="20230911225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230911225000 -0300" stop="20230911234500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230911234500 -0300" stop="20230912003000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230912003000 -0300" stop="20230912011500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230912011500 -0300" stop="20230912020000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230912020000 -0300" stop="20230912030000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230912030000 -0300" stop="20230912034500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230912034500 -0300" stop="20230912041500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230912041500 -0300" stop="20230912044500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230912044500 -0300" stop="20230912054500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230912054500 -0300" stop="20230912060000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230912060000 -0300" stop="20230912064500 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230912064500 -0300" stop="20230912071500 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230912071500 -0300" stop="20230912073000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230912073000 -0300" stop="20230912081500 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230912081500 -0300" stop="20230912090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230912090000 -0300" stop="20230912094500 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230912094500 -0300" stop="20230912101500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230912101500 -0300" stop="20230912110000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230912110000 -0300" stop="20230912113000 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230912113000 -0300" stop="20230912121500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230912121500 -0300" stop="20230912130000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230912130000 -0300" stop="20230912134500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230912134500 -0300" stop="20230912144000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230912144000 -0300" stop="20230912153000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230912153000 -0300" stop="20230912161500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230912161500 -0300" stop="20230912164500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230912164500 -0300" stop="20230912171500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230912171500 -0300" stop="20230912180000 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230912180000 -0300" stop="20230912183000 -0300" channel="Viva">
+    <title lang="pt">Os Casais Que Amamos</title>
+  </programme>
+  <programme start="20230912183000 -0300" stop="20230912190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230912190000 -0300" stop="20230912193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230912193000 -0300" stop="20230912203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230912203000 -0300" stop="20230912211500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230912211500 -0300" stop="20230912215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230912215000 -0300" stop="20230912222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230912222000 -0300" stop="20230912225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230912225000 -0300" stop="20230912234500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230912234500 -0300" stop="20230913003000 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230913003000 -0300" stop="20230913011500 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230913011500 -0300" stop="20230913020000 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230913020000 -0300" stop="20230913030000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230913030000 -0300" stop="20230913034500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230913034500 -0300" stop="20230913041500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230913041500 -0300" stop="20230913044500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230913044500 -0300" stop="20230913054500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230913054500 -0300" stop="20230913060000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230913060000 -0300" stop="20230913064500 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230913064500 -0300" stop="20230913071500 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230913071500 -0300" stop="20230913073000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230913073000 -0300" stop="20230913081500 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230913081500 -0300" stop="20230913090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230913090000 -0300" stop="20230913094500 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230913094500 -0300" stop="20230913101500 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230913101500 -0300" stop="20230913110000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20230913110000 -0300" stop="20230913113000 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230913113000 -0300" stop="20230913121500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230913121500 -0300" stop="20230913130000 -0300" channel="Viva">
+    <title lang="pt">História de Amor</title>
+  </programme>
+  <programme start="20230913130000 -0300" stop="20230913134500 -0300" channel="Viva">
+    <title lang="pt">Corpo Dourado</title>
+  </programme>
+  <programme start="20230913134500 -0300" stop="20230913144000 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+  <programme start="20230913144000 -0300" stop="20230913153000 -0300" channel="Viva">
+    <title lang="pt">O Sexo dos Anjos</title>
+  </programme>
+  <programme start="20230913153000 -0300" stop="20230913161500 -0300" channel="Viva">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20230913161500 -0300" stop="20230913164500 -0300" channel="Viva">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20230913164500 -0300" stop="20230913171500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230913171500 -0300" stop="20230913180000 -0300" channel="Viva">
+    <title lang="pt">Chapa Quente</title>
+  </programme>
+  <programme start="20230913180000 -0300" stop="20230913183000 -0300" channel="Viva">
+    <title lang="pt">As Crianças Que Amamos</title>
+  </programme>
+  <programme start="20230913183000 -0300" stop="20230913190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230913190000 -0300" stop="20230913193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20230913193000 -0300" stop="20230913203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20230913203000 -0300" stop="20230913211500 -0300" channel="Viva">
+    <title lang="pt">Cair em Tentação</title>
+  </programme>
+  <programme start="20230913211500 -0300" stop="20230913215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20230913215000 -0300" stop="20230913222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230913222000 -0300" stop="20230913225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20230913225000 -0300" stop="20230913234500 -0300" channel="Viva">
+    <title lang="pt">Senhora do Destino</title>
+  </programme>
+</tv>
