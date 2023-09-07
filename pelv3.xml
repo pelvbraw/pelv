@@ -16,7 +16,7 @@
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="HBO+">
-    <display-name lang="pt">HBO+</display-name>
+    <display-name lang="pt">HBO Plus</display-name>
     <icon src="https://i.meuguia.tv/logos/new/hpl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
@@ -25,8 +25,8 @@
     <icon src="https://i.meuguia.tv/logos/new/hfe.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="TCM">
-    <display-name lang="pt">TCM</display-name>
+  <channel id="TCM - Turner Classic Movies">
+    <display-name lang="pt">TCM - Turner Classic Movies</display-name>
     <icon src="https://i.meuguia.tv/logos/new/tcm.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
@@ -647,9 +647,6 @@
   </programme>
   <programme start="20230913223500 -0300" stop="20230913233300 -0300" channel="Animal Planet">
     <title lang="pt">No Rastro do Pé-Grande</title>
-  </programme>
-  <programme start="20230907113000 -0300" stop="20230907121500 -0300" channel="Viva">
-    <title lang="pt">Cair em Tentação</title>
   </programme>
   <programme start="20230907121500 -0300" stop="20230907130000 -0300" channel="Viva">
     <title lang="pt">História de Amor</title>
@@ -2622,266 +2619,260 @@
   <programme start="20230912220000 -0300" stop="20230912230500 -0300" channel="HBO Signature">
     <title lang="pt">Escravidão Século XXI</title>
   </programme>
-  <programme start="20230907102400 -0300" stop="20230907121700 -0300" channel="TCM">
-    <title lang="pt">O Ilusionista</title>
-  </programme>
-  <programme start="20230907121700 -0300" stop="20230907140300 -0300" channel="TCM">
+  <programme start="20230907121700 -0300" stop="20230907140300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Leão Branco</title>
   </programme>
-  <programme start="20230907140300 -0300" stop="20230907161400 -0300" channel="TCM">
+  <programme start="20230907140300 -0300" stop="20230907161400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che</title>
   </programme>
-  <programme start="20230907161400 -0300" stop="20230907182500 -0300" channel="TCM">
+  <programme start="20230907161400 -0300" stop="20230907182500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che 2</title>
   </programme>
-  <programme start="20230907182500 -0300" stop="20230907202600 -0300" channel="TCM">
+  <programme start="20230907182500 -0300" stop="20230907202600 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Onde Mora o Coração</title>
   </programme>
-  <programme start="20230907202600 -0300" stop="20230907220000 -0300" channel="TCM">
+  <programme start="20230907202600 -0300" stop="20230907220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">100 Vezes Eu Não Devo</title>
   </programme>
-  <programme start="20230907220000 -0300" stop="20230908000400 -0300" channel="TCM">
+  <programme start="20230907220000 -0300" stop="20230908000400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Velvet Goldmine</title>
   </programme>
-  <programme start="20230908000400 -0300" stop="20230908014200 -0300" channel="TCM">
+  <programme start="20230908000400 -0300" stop="20230908014200 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Presságios de Um Crime</title>
   </programme>
-  <programme start="20230908014200 -0300" stop="20230908034900 -0300" channel="TCM">
+  <programme start="20230908014200 -0300" stop="20230908034900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Música Feroz</title>
   </programme>
-  <programme start="20230908034900 -0300" stop="20230908060000 -0300" channel="TCM">
+  <programme start="20230908034900 -0300" stop="20230908060000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230908060000 -0300" stop="20230908062300 -0300" channel="TCM">
+  <programme start="20230908060000 -0300" stop="20230908062300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230908062300 -0300" stop="20230908083100 -0300" channel="TCM">
+  <programme start="20230908062300 -0300" stop="20230908083100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che</title>
   </programme>
-  <programme start="20230908083100 -0300" stop="20230908104100 -0300" channel="TCM">
+  <programme start="20230908083100 -0300" stop="20230908104100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che 2</title>
   </programme>
-  <programme start="20230908104100 -0300" stop="20230908124300 -0300" channel="TCM">
+  <programme start="20230908104100 -0300" stop="20230908124300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Onde Mora o Coração</title>
   </programme>
-  <programme start="20230908124300 -0300" stop="20230908141900 -0300" channel="TCM">
+  <programme start="20230908124300 -0300" stop="20230908141900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">100 Vezes Eu Não Devo</title>
   </programme>
-  <programme start="20230908141900 -0300" stop="20230908161300 -0300" channel="TCM">
+  <programme start="20230908141900 -0300" stop="20230908161300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Som do Coração</title>
   </programme>
-  <programme start="20230908161300 -0300" stop="20230908181600 -0300" channel="TCM">
+  <programme start="20230908161300 -0300" stop="20230908181600 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Gilbert Grape: Aprendiz de Sonhador</title>
   </programme>
-  <programme start="20230908181600 -0300" stop="20230908195900 -0300" channel="TCM">
+  <programme start="20230908181600 -0300" stop="20230908195900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Orfanato</title>
   </programme>
-  <programme start="20230908195900 -0300" stop="20230908220000 -0300" channel="TCM">
+  <programme start="20230908195900 -0300" stop="20230908220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Estranha Obsessão</title>
   </programme>
-  <programme start="20230908220000 -0300" stop="20230909000800 -0300" channel="TCM">
+  <programme start="20230908220000 -0300" stop="20230909000800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Música Feroz</title>
   </programme>
-  <programme start="20230909000800 -0300" stop="20230909023500 -0300" channel="TCM">
+  <programme start="20230909000800 -0300" stop="20230909023500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">A Casa dos Espíritos</title>
   </programme>
-  <programme start="20230909023500 -0300" stop="20230909050000 -0300" channel="TCM">
+  <programme start="20230909023500 -0300" stop="20230909050000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Os Bons Companheiros</title>
   </programme>
-  <programme start="20230909050000 -0300" stop="20230909060000 -0300" channel="TCM">
+  <programme start="20230909050000 -0300" stop="20230909060000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230909060000 -0300" stop="20230909062300 -0300" channel="TCM">
+  <programme start="20230909060000 -0300" stop="20230909062300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230909062300 -0300" stop="20230909081500 -0300" channel="TCM">
+  <programme start="20230909062300 -0300" stop="20230909081500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Som do Coração</title>
   </programme>
-  <programme start="20230909081500 -0300" stop="20230909101800 -0300" channel="TCM">
+  <programme start="20230909081500 -0300" stop="20230909101800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Gilbert Grape: Aprendiz de Sonhador</title>
   </programme>
-  <programme start="20230909101800 -0300" stop="20230909120100 -0300" channel="TCM">
+  <programme start="20230909101800 -0300" stop="20230909120100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Orfanato</title>
   </programme>
-  <programme start="20230909120100 -0300" stop="20230909140300 -0300" channel="TCM">
+  <programme start="20230909120100 -0300" stop="20230909140300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Estranha Obsessão</title>
   </programme>
-  <programme start="20230909140300 -0300" stop="20230909162300 -0300" channel="TCM">
+  <programme start="20230909140300 -0300" stop="20230909162300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hamlet</title>
   </programme>
-  <programme start="20230909162300 -0300" stop="20230909180800 -0300" channel="TCM">
+  <programme start="20230909162300 -0300" stop="20230909180800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Leão Branco</title>
   </programme>
-  <programme start="20230909180800 -0300" stop="20230909195300 -0300" channel="TCM">
+  <programme start="20230909180800 -0300" stop="20230909195300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">As Panteras Detonando</title>
   </programme>
-  <programme start="20230909195300 -0300" stop="20230909220000 -0300" channel="TCM">
+  <programme start="20230909195300 -0300" stop="20230909220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Batman</title>
   </programme>
-  <programme start="20230909220000 -0300" stop="20230910002700 -0300" channel="TCM">
+  <programme start="20230909220000 -0300" stop="20230910002700 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Os Bons Companheiros</title>
   </programme>
-  <programme start="20230910002700 -0300" stop="20230910021900 -0300" channel="TCM">
+  <programme start="20230910002700 -0300" stop="20230910021900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Monster</title>
   </programme>
-  <programme start="20230910021900 -0300" stop="20230910042600 -0300" channel="TCM">
+  <programme start="20230910021900 -0300" stop="20230910042600 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Terror em Silent Hill</title>
   </programme>
-  <programme start="20230910042600 -0300" stop="20230910060000 -0300" channel="TCM">
+  <programme start="20230910042600 -0300" stop="20230910060000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230910060000 -0300" stop="20230910065300 -0300" channel="TCM">
+  <programme start="20230910060000 -0300" stop="20230910065300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230910065300 -0300" stop="20230910090900 -0300" channel="TCM">
+  <programme start="20230910065300 -0300" stop="20230910090900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hamlet</title>
   </programme>
-  <programme start="20230910090900 -0300" stop="20230910105500 -0300" channel="TCM">
+  <programme start="20230910090900 -0300" stop="20230910105500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Leão Branco</title>
   </programme>
-  <programme start="20230910105500 -0300" stop="20230910124000 -0300" channel="TCM">
+  <programme start="20230910105500 -0300" stop="20230910124000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">As Panteras Detonando</title>
   </programme>
-  <programme start="20230910124000 -0300" stop="20230910145000 -0300" channel="TCM">
+  <programme start="20230910124000 -0300" stop="20230910145000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Batman</title>
   </programme>
-  <programme start="20230910145000 -0300" stop="20230910170100 -0300" channel="TCM">
+  <programme start="20230910145000 -0300" stop="20230910170100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che 2</title>
   </programme>
-  <programme start="20230910170100 -0300" stop="20230910185400 -0300" channel="TCM">
+  <programme start="20230910170100 -0300" stop="20230910185400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Ilusionista</title>
   </programme>
-  <programme start="20230910185400 -0300" stop="20230910203600 -0300" channel="TCM">
+  <programme start="20230910185400 -0300" stop="20230910203600 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Febre de Bola</title>
   </programme>
-  <programme start="20230910203600 -0300" stop="20230910220000 -0300" channel="TCM">
+  <programme start="20230910203600 -0300" stop="20230910220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Gigante de Ferro</title>
   </programme>
-  <programme start="20230910220000 -0300" stop="20230911000900 -0300" channel="TCM">
+  <programme start="20230910220000 -0300" stop="20230911000900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Terror em Silent Hill</title>
   </programme>
-  <programme start="20230911000900 -0300" stop="20230911023000 -0300" channel="TCM">
+  <programme start="20230911000900 -0300" stop="20230911023000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Lolita</title>
   </programme>
-  <programme start="20230911023000 -0300" stop="20230911042500 -0300" channel="TCM">
+  <programme start="20230911023000 -0300" stop="20230911042500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">L'amant</title>
   </programme>
-  <programme start="20230911042500 -0300" stop="20230911060000 -0300" channel="TCM">
+  <programme start="20230911042500 -0300" stop="20230911060000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230911060000 -0300" stop="20230911070800 -0300" channel="TCM">
+  <programme start="20230911060000 -0300" stop="20230911070800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230911070800 -0300" stop="20230911091900 -0300" channel="TCM">
+  <programme start="20230911070800 -0300" stop="20230911091900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che 2</title>
   </programme>
-  <programme start="20230911091900 -0300" stop="20230911111100 -0300" channel="TCM">
+  <programme start="20230911091900 -0300" stop="20230911111100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Ilusionista</title>
   </programme>
-  <programme start="20230911111100 -0300" stop="20230911125500 -0300" channel="TCM">
+  <programme start="20230911111100 -0300" stop="20230911125500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Febre de Bola</title>
   </programme>
-  <programme start="20230911125500 -0300" stop="20230911142000 -0300" channel="TCM">
+  <programme start="20230911125500 -0300" stop="20230911142000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Gigante de Ferro</title>
   </programme>
-  <programme start="20230911142000 -0300" stop="20230911162300 -0300" channel="TCM">
+  <programme start="20230911142000 -0300" stop="20230911162300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Onde Mora o Coração</title>
   </programme>
-  <programme start="20230911162300 -0300" stop="20230911183000 -0300" channel="TCM">
+  <programme start="20230911162300 -0300" stop="20230911183000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Do que as Mulheres Gostam</title>
   </programme>
-  <programme start="20230911183000 -0300" stop="20230911202200 -0300" channel="TCM">
+  <programme start="20230911183000 -0300" stop="20230911202200 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Linha do Tempo</title>
   </programme>
-  <programme start="20230911202200 -0300" stop="20230911220000 -0300" channel="TCM">
+  <programme start="20230911202200 -0300" stop="20230911220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Cemitério das Almas Perdidas</title>
   </programme>
-  <programme start="20230911220000 -0300" stop="20230911235700 -0300" channel="TCM">
+  <programme start="20230911220000 -0300" stop="20230911235700 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">L'amant</title>
   </programme>
-  <programme start="20230911235700 -0300" stop="20230912020100 -0300" channel="TCM">
+  <programme start="20230911235700 -0300" stop="20230912020100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Stealth</title>
   </programme>
-  <programme start="20230912020100 -0300" stop="20230912033400 -0300" channel="TCM">
+  <programme start="20230912020100 -0300" stop="20230912033400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Trainspotting</title>
   </programme>
-  <programme start="20230912033400 -0300" stop="20230912051100 -0300" channel="TCM">
+  <programme start="20230912033400 -0300" stop="20230912051100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Presságios de Um Crime</title>
   </programme>
-  <programme start="20230912051100 -0300" stop="20230912060000 -0300" channel="TCM">
+  <programme start="20230912051100 -0300" stop="20230912060000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230912060000 -0300" stop="20230912075700 -0300" channel="TCM">
+  <programme start="20230912060000 -0300" stop="20230912075700 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Onde Mora o Coração</title>
   </programme>
-  <programme start="20230912075700 -0300" stop="20230912100400 -0300" channel="TCM">
+  <programme start="20230912075700 -0300" stop="20230912100400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Do que as Mulheres Gostam</title>
   </programme>
-  <programme start="20230912100400 -0300" stop="20230912115600 -0300" channel="TCM">
+  <programme start="20230912100400 -0300" stop="20230912115600 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Linha do Tempo</title>
   </programme>
-  <programme start="20230912115600 -0300" stop="20230912142300 -0300" channel="TCM">
+  <programme start="20230912115600 -0300" stop="20230912142300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
   </programme>
-  <programme start="20230912142300 -0300" stop="20230912163400 -0300" channel="TCM">
+  <programme start="20230912142300 -0300" stop="20230912163400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che 2</title>
   </programme>
-  <programme start="20230912163400 -0300" stop="20230912182800 -0300" channel="TCM">
+  <programme start="20230912163400 -0300" stop="20230912182800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Som do Coração</title>
   </programme>
-  <programme start="20230912182800 -0300" stop="20230912200500 -0300" channel="TCM">
+  <programme start="20230912182800 -0300" stop="20230912200500 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Cemitério das Almas Perdidas</title>
   </programme>
-  <programme start="20230912200500 -0300" stop="20230912220000 -0300" channel="TCM">
+  <programme start="20230912200500 -0300" stop="20230912220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Homem Sem Face</title>
   </programme>
-  <programme start="20230912220000 -0300" stop="20230912233400 -0300" channel="TCM">
+  <programme start="20230912220000 -0300" stop="20230912233400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Trainspotting</title>
   </programme>
-  <programme start="20230912233400 -0300" stop="20230913011200 -0300" channel="TCM">
+  <programme start="20230912233400 -0300" stop="20230913011200 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Presságios de Um Crime</title>
   </programme>
-  <programme start="20230913011200 -0300" stop="20230913033900 -0300" channel="TCM">
+  <programme start="20230913011200 -0300" stop="20230913033900 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">A Casa dos Espíritos</title>
   </programme>
-  <programme start="20230913033900 -0300" stop="20230913054100 -0300" channel="TCM">
+  <programme start="20230913033900 -0300" stop="20230913054100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Velvet Goldmine</title>
   </programme>
-  <programme start="20230913054100 -0300" stop="20230913060000 -0300" channel="TCM">
+  <programme start="20230913054100 -0300" stop="20230913060000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230913060000 -0300" stop="20230913065400 -0300" channel="TCM">
+  <programme start="20230913060000 -0300" stop="20230913065400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20230913065400 -0300" stop="20230913090400 -0300" channel="TCM">
+  <programme start="20230913065400 -0300" stop="20230913090400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Che 2</title>
   </programme>
-  <programme start="20230913090400 -0300" stop="20230913105700 -0300" channel="TCM">
+  <programme start="20230913090400 -0300" stop="20230913105700 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Som do Coração</title>
   </programme>
-  <programme start="20230913105700 -0300" stop="20230913124300 -0300" channel="TCM">
+  <programme start="20230913105700 -0300" stop="20230913124300 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Leão Branco</title>
   </programme>
-  <programme start="20230913124300 -0300" stop="20230913143800 -0300" channel="TCM">
+  <programme start="20230913124300 -0300" stop="20230913143800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Homem Sem Face</title>
   </programme>
-  <programme start="20230913143800 -0300" stop="20230913162400 -0300" channel="TCM">
+  <programme start="20230913143800 -0300" stop="20230913162400 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Orfanato</title>
   </programme>
-  <programme start="20230913162400 -0300" stop="20230913183800 -0300" channel="TCM">
+  <programme start="20230913162400 -0300" stop="20230913183800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Menina de Ouro</title>
   </programme>
-  <programme start="20230913183800 -0300" stop="20230913203100 -0300" channel="TCM">
+  <programme start="20230913183800 -0300" stop="20230913203100 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">O Ilusionista</title>
   </programme>
-  <programme start="20230913203100 -0300" stop="20230913220000 -0300" channel="TCM">
+  <programme start="20230913203100 -0300" stop="20230913220000 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">Ninguém Ama Ninguém... (Por Mais De Dois Anos)</title>
   </programme>
-  <programme start="20230913220000 -0300" stop="20230914002800 -0300" channel="TCM">
+  <programme start="20230913220000 -0300" stop="20230914002800 -0300" channel="TCM - Turner Classic Movies">
     <title lang="pt">A Casa dos Espíritos</title>
-  </programme>
-  <programme start="20230907105300 -0300" stop="20230907122200 -0300" channel="TNT">
-    <title lang="pt">Resgate em Alta Velocidade</title>
   </programme>
   <programme start="20230907122200 -0300" stop="20230907142100 -0300" channel="TNT">
     <title lang="pt">O Quarto do Pânico</title>
@@ -3353,9 +3344,6 @@
   </programme>
   <programme start="20230912200000 -0300" stop="20230912220000 -0300" channel="FX">
     <title lang="pt">O Pequenino</title>
-  </programme>
-  <programme start="20230907112500 -0300" stop="20230907121500 -0300" channel="SyFy">
-    <title lang="pt">Heroes</title>
   </programme>
   <programme start="20230907121500 -0300" stop="20230907130500 -0300" channel="SyFy">
     <title lang="pt">Grimm</title>
@@ -4365,9 +4353,6 @@
   <programme start="20230913223000 -0300" stop="20230913231800 -0300" channel="TBS">
     <title lang="pt">Será Isso Amor?</title>
   </programme>
-  <programme start="20230907113000 -0300" stop="20230907122000 -0300" channel="Universal TV">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
   <programme start="20230907122000 -0300" stop="20230907131000 -0300" channel="Universal TV">
     <title lang="pt">Blue Bloods</title>
   </programme>
@@ -4916,9 +4901,6 @@
   </programme>
   <programme start="20230913222000 -0300" stop="20230913231000 -0300" channel="Universal TV">
     <title lang="pt">The Rookie</title>
-  </programme>
-  <programme start="20230907115400 -0300" stop="20230907121700 -0300" channel="Warner Channel">
-    <title lang="pt">Two and a Half Men</title>
   </programme>
   <programme start="20230907121700 -0300" stop="20230907124100 -0300" channel="Warner Channel">
     <title lang="pt">Two and a Half Men</title>
@@ -5807,9 +5789,6 @@
   </programme>
   <programme start="20230913233600 -0300" stop="20230913235900 -0300" channel="Warner Channel">
     <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20230907113000 -0300" stop="20230907123000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT</title>
   </programme>
   <programme start="20230907123000 -0300" stop="20230907133000 -0300" channel="Premiere Clubes">
     <title lang="pt">VT</title>
@@ -7359,9 +7338,6 @@
   <programme start="20230913224500 -0300" stop="20230913234500 -0300" channel="Record SP">
     <title lang="pt">Top Chef Brasil</title>
   </programme>
-  <programme start="20230907120000 -0300" stop="20230907122000 -0300" channel="SBT">
-    <title lang="pt">Um Maluco no Pedaço</title>
-  </programme>
   <programme start="20230907122000 -0300" stop="20230907130000 -0300" channel="SBT">
     <title lang="pt">Henry Danger</title>
   </programme>
@@ -7643,9 +7619,6 @@
   </programme>
   <programme start="20230913224500 -0300" stop="20230914001500 -0300" channel="SBT">
     <title lang="pt">Programa do Ratinho</title>
-  </programme>
-  <programme start="20230907115000 -0300" stop="20230907123000 -0300" channel="RedeTV!">
-    <title lang="pt">Igreja Batista do Avivamento Mundial</title>
   </programme>
   <programme start="20230907123000 -0300" stop="20230907125000 -0300" channel="RedeTV!">
     <title lang="pt">Eleve</title>
