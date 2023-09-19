@@ -10,8 +10,7 @@
   <timespan>2</timespan>
   <update>s</update>
   <channels>
-    channel update="i" site="meuguia.tv" site_id="APL" xmltv_id="Animal Planet">Animal Planet</channel>
-	<channel update="i" site="meuguia.tv" site_id="DIS" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    
 	
 	
    
