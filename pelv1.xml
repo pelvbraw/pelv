@@ -90,14 +90,15 @@
     <icon src="https://i.meuguia.tv/logos/new/esb.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="ESPN 3">
-    <display-name lang="pt">ESPN 3</display-name>
+  <channel id="ESPN 2">
+    <display-name lang="pt">ESPN 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 4">
+    <display-name lang="pt">ESPN 4</display-name>
     <icon src="https://i.meuguia.tv/logos/new/fsp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20230929144000 -0300" stop="20230929164500 -0300" channel="Megapix">
-    <title lang="pt">Extraordinário</title>
-  </programme>
   <programme start="20230929164500 -0300" stop="20230929191500 -0300" channel="Megapix">
     <title lang="pt">Missão: Impossível - Protocolo Fantasma</title>
   </programme>
@@ -1697,9 +1698,6 @@
   <programme start="20231005200000 -0300" stop="20231005205000 -0300" channel="SyFy">
     <title lang="pt">Face Off</title>
   </programme>
-  <programme start="20230929160000 -0300" stop="20230929164800 -0300" channel="TBS">
-    <title lang="pt">Será Isso Amor?</title>
-  </programme>
   <programme start="20230929164800 -0300" stop="20230929173600 -0300" channel="TBS">
     <title lang="pt">Um Milagre</title>
   </programme>
@@ -2537,9 +2535,6 @@
   <programme start="20231003180000 -0300" stop="20231003195500 -0300" channel="Telecine Cult">
     <title lang="pt">Pânico</title>
   </programme>
-  <programme start="20230929151000 -0300" stop="20230929165000 -0300" channel="Telecine Fun">
-    <title lang="pt">100% Lobo</title>
-  </programme>
   <programme start="20230929165000 -0300" stop="20230929182000 -0300" channel="Telecine Fun">
     <title lang="pt">As Aventuras do Capitão Cueca - O Filme</title>
   </programme>
@@ -3169,9 +3164,6 @@
   </programme>
   <programme start="20231003162500 -0300" stop="20231003181500 -0300" channel="Telecine Touch">
     <title lang="pt">Pegando Fogo</title>
-  </programme>
-  <programme start="20230929140300 -0300" stop="20230929164400 -0300" channel="TNT">
-    <title lang="pt">Bad Boys II</title>
   </programme>
   <programme start="20230929164400 -0300" stop="20230929182600 -0300" channel="TNT">
     <title lang="pt">O Atirador 4</title>
@@ -5198,307 +5190,307 @@
   <programme start="20231005190000 -0300" stop="20231005200000 -0300" channel="ESPN">
     <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
-  <programme start="20230929160000 -0300" stop="20230929181500 -0300" channel="ESPN 3">
+  <programme start="20230929160000 -0300" stop="20230929181500 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Português: Benfica x FC Porto - Ao Vivo</title>
   </programme>
-  <programme start="20230929181500 -0300" stop="20230929184500 -0300" channel="ESPN 3">
+  <programme start="20230929181500 -0300" stop="20230929184500 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Espanhol</title>
   </programme>
-  <programme start="20230929184500 -0300" stop="20230929191500 -0300" channel="ESPN 3">
+  <programme start="20230929184500 -0300" stop="20230929191500 -0300" channel="ESPN 4">
     <title lang="pt">LaLiga World</title>
   </programme>
-  <programme start="20230929191500 -0300" stop="20230929194500 -0300" channel="ESPN 3">
+  <programme start="20230929191500 -0300" stop="20230929194500 -0300" channel="ESPN 4">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
-  <programme start="20230929194500 -0300" stop="20230929200000 -0300" channel="ESPN 3">
+  <programme start="20230929194500 -0300" stop="20230929200000 -0300" channel="ESPN 4">
     <title lang="pt">Momento ESPN: Especial 30 Anos de Premier League: Leicester</title>
   </programme>
-  <programme start="20230929200000 -0300" stop="20230929220000 -0300" channel="ESPN 3">
+  <programme start="20230929200000 -0300" stop="20230929220000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Barcelona x Sevilla</title>
   </programme>
-  <programme start="20230929220000 -0300" stop="20230929224500 -0300" channel="ESPN 3">
+  <programme start="20230929220000 -0300" stop="20230929224500 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão: Treino Livre - Ao Vivo</title>
   </programme>
-  <programme start="20230929224500 -0300" stop="20230929233000 -0300" channel="ESPN 3">
+  <programme start="20230929224500 -0300" stop="20230929233000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão: Treinos Classificatórios - Ao Vivo</title>
   </programme>
-  <programme start="20230929233000 -0300" stop="20230930000000 -0300" channel="ESPN 3">
+  <programme start="20230929233000 -0300" stop="20230930000000 -0300" channel="ESPN 4">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
-  <programme start="20230930000000 -0300" stop="20230930003000 -0300" channel="ESPN 3">
+  <programme start="20230930000000 -0300" stop="20230930003000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Espanhol</title>
   </programme>
-  <programme start="20230930003000 -0300" stop="20230930005000 -0300" channel="ESPN 3">
+  <programme start="20230930003000 -0300" stop="20230930005000 -0300" channel="ESPN 4">
     <title lang="pt">Momento ESPN: Edinho Jogando Real</title>
   </programme>
-  <programme start="20230930005000 -0300" stop="20230930013500 -0300" channel="ESPN 3">
+  <programme start="20230930005000 -0300" stop="20230930013500 -0300" channel="ESPN 4">
     <title lang="pt">Moto 3: GP do Japão: Treinos Classificatórios - Ao Vivo</title>
   </programme>
-  <programme start="20230930013500 -0300" stop="20230930023000 -0300" channel="ESPN 3">
+  <programme start="20230930013500 -0300" stop="20230930023000 -0300" channel="ESPN 4">
     <title lang="pt">Moto 2: GP do Japão: Treinos Classificatórios - Ao Vivo</title>
   </programme>
-  <programme start="20230930023000 -0300" stop="20230930023000 -0300" channel="ESPN 3">
+  <programme start="20230930023000 -0300" stop="20230930023000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão: Sprint - Ao Vivo</title>
   </programme>
-  <programme start="20230930023000 -0300" stop="20230930040000 -0300" channel="ESPN 3">
+  <programme start="20230930023000 -0300" stop="20230930040000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão: Sprint - Ao Vivo</title>
   </programme>
-  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="ESPN 3">
+  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="ESPN 4">
     <title lang="pt">Mina de Passe</title>
   </programme>
-  <programme start="20230930050000 -0300" stop="20230930070000 -0300" channel="ESPN 3">
+  <programme start="20230930050000 -0300" stop="20230930070000 -0300" channel="ESPN 4">
     <title lang="pt">Conmebol Sulamericana: Corinthians x Fortaleza</title>
   </programme>
-  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="ESPN 3">
+  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="ESPN 4">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
-  <programme start="20230930073000 -0300" stop="20230930081500 -0300" channel="ESPN 3">
+  <programme start="20230930073000 -0300" stop="20230930081500 -0300" channel="ESPN 4">
     <title lang="pt">Moto 3: GP do Japão: Treinos Classificatórios</title>
   </programme>
-  <programme start="20230930081500 -0300" stop="20230930091000 -0300" channel="ESPN 3">
+  <programme start="20230930081500 -0300" stop="20230930091000 -0300" channel="ESPN 4">
     <title lang="pt">Moto 2: GP do Japão: Treinos Classificatórios</title>
   </programme>
-  <programme start="20230930091000 -0300" stop="20230930104000 -0300" channel="ESPN 3">
+  <programme start="20230930091000 -0300" stop="20230930104000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão: Sprint</title>
   </programme>
-  <programme start="20230930104000 -0300" stop="20230930105000 -0300" channel="ESPN 3">
+  <programme start="20230930104000 -0300" stop="20230930105000 -0300" channel="ESPN 4">
     <title lang="pt">Momento ESPN</title>
   </programme>
-  <programme start="20230930105000 -0300" stop="20230930125500 -0300" channel="ESPN 3">
+  <programme start="20230930105000 -0300" stop="20230930125500 -0300" channel="ESPN 4">
     <title lang="pt">Premier League: Bournemouth x Arsenal - Ao Vivo</title>
   </programme>
-  <programme start="20230930125500 -0300" stop="20230930150000 -0300" channel="ESPN 3">
+  <programme start="20230930125500 -0300" stop="20230930150000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Italiano: Milan x Lazio - Ao Vivo</title>
   </programme>
-  <programme start="20230930150000 -0300" stop="20230930153000 -0300" channel="ESPN 3">
+  <programme start="20230930150000 -0300" stop="20230930153000 -0300" channel="ESPN 4">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
-  <programme start="20230930153000 -0300" stop="20230930155500 -0300" channel="ESPN 3">
+  <programme start="20230930153000 -0300" stop="20230930155500 -0300" channel="ESPN 4">
     <title lang="pt">MunDu Meneses</title>
   </programme>
-  <programme start="20230930155500 -0300" stop="20230930180000 -0300" channel="ESPN 3">
+  <programme start="20230930155500 -0300" stop="20230930180000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Francês: Monaco x Olympique de Marselha - Ao Vivo</title>
   </programme>
-  <programme start="20230930180000 -0300" stop="20230930183000 -0300" channel="ESPN 3">
+  <programme start="20230930180000 -0300" stop="20230930183000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Campeonato Italiano</title>
   </programme>
-  <programme start="20230930183000 -0300" stop="20230930185500 -0300" channel="ESPN 3">
+  <programme start="20230930183000 -0300" stop="20230930185500 -0300" channel="ESPN 4">
     <title lang="pt">Inside Serie A</title>
   </programme>
-  <programme start="20230930185500 -0300" stop="20230930210000 -0300" channel="ESPN 3">
+  <programme start="20230930185500 -0300" stop="20230930210000 -0300" channel="ESPN 4">
     <title lang="pt">Copa da Liga Argentina: Racing x Independiente - Ao Vivo</title>
   </programme>
-  <programme start="20230930210000 -0300" stop="20230930230000 -0300" channel="ESPN 3">
+  <programme start="20230930210000 -0300" stop="20230930230000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League: Tottenham x Liverpool</title>
   </programme>
-  <programme start="20230930230000 -0300" stop="20230930233000 -0300" channel="ESPN 3">
+  <programme start="20230930230000 -0300" stop="20230930233000 -0300" channel="ESPN 4">
     <title lang="pt">Especial Reflexões</title>
   </programme>
-  <programme start="20230930233000 -0300" stop="20230930234500 -0300" channel="ESPN 3">
+  <programme start="20230930233000 -0300" stop="20230930234500 -0300" channel="ESPN 4">
     <title lang="pt">Momento ESPN: Especial UEFA</title>
   </programme>
-  <programme start="20230930234500 -0300" stop="20231001010000 -0300" channel="ESPN 3">
+  <programme start="20230930234500 -0300" stop="20231001010000 -0300" channel="ESPN 4">
     <title lang="pt">Moto 3: GP do Japão - Ao Vivo</title>
   </programme>
-  <programme start="20231001010000 -0300" stop="20231001023000 -0300" channel="ESPN 3">
+  <programme start="20231001010000 -0300" stop="20231001023000 -0300" channel="ESPN 4">
     <title lang="pt">Moto 2: GP do Japão - Ao Vivo</title>
   </programme>
-  <programme start="20231001023000 -0300" stop="20231001023000 -0300" channel="ESPN 3">
+  <programme start="20231001023000 -0300" stop="20231001023000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão - Ao Vivo</title>
   </programme>
-  <programme start="20231001023000 -0300" stop="20231001040000 -0300" channel="ESPN 3">
+  <programme start="20231001023000 -0300" stop="20231001040000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão - Ao Vivo</title>
   </programme>
-  <programme start="20231001040000 -0300" stop="20231001060000 -0300" channel="ESPN 3">
+  <programme start="20231001040000 -0300" stop="20231001060000 -0300" channel="ESPN 4">
     <title lang="pt">Copa do Mundo de Rugby: Argentina x Chile</title>
   </programme>
-  <programme start="20231001060000 -0300" stop="20231001075500 -0300" channel="ESPN 3">
+  <programme start="20231001060000 -0300" stop="20231001075500 -0300" channel="ESPN 4">
     <title lang="pt">Copa do Mundo de Rugby: Escócia x Romênia</title>
   </programme>
-  <programme start="20231001075500 -0300" stop="20231001100000 -0300" channel="ESPN 3">
+  <programme start="20231001075500 -0300" stop="20231001100000 -0300" channel="ESPN 4">
     <title lang="pt">Inglês 2ª Divisão: Blackburn Rovers x Leicester City - Ao Vivo</title>
   </programme>
-  <programme start="20231001100000 -0300" stop="20231001111500 -0300" channel="ESPN 3">
+  <programme start="20231001100000 -0300" stop="20231001111500 -0300" channel="ESPN 4">
     <title lang="pt">Moto 3: GP do Japão</title>
   </programme>
-  <programme start="20231001111500 -0300" stop="20231001123500 -0300" channel="ESPN 3">
+  <programme start="20231001111500 -0300" stop="20231001123500 -0300" channel="ESPN 4">
     <title lang="pt">Moto 2: GP do Japão</title>
   </programme>
-  <programme start="20231001123500 -0300" stop="20231001144500 -0300" channel="ESPN 3">
+  <programme start="20231001123500 -0300" stop="20231001144500 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Italiano: Atalanta x Juventus - Ao Vivo</title>
   </programme>
-  <programme start="20231001144500 -0300" stop="20231001150000 -0300" channel="ESPN 3">
+  <programme start="20231001144500 -0300" stop="20231001150000 -0300" channel="ESPN 4">
     <title lang="pt">Momento ESPN</title>
   </programme>
-  <programme start="20231001150000 -0300" stop="20231001153000 -0300" channel="ESPN 3">
+  <programme start="20231001150000 -0300" stop="20231001153000 -0300" channel="ESPN 4">
     <title lang="pt">MunDu Meneses</title>
   </programme>
-  <programme start="20231001153000 -0300" stop="20231001170000 -0300" channel="ESPN 3">
+  <programme start="20231001153000 -0300" stop="20231001170000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão</title>
   </programme>
-  <programme start="20231001170000 -0300" stop="20231001200000 -0300" channel="ESPN 3">
+  <programme start="20231001170000 -0300" stop="20231001200000 -0300" channel="ESPN 4">
     <title lang="pt">NFL: Las Vegas Raiders x Los Angeles Chargers - Ao Vivo</title>
   </programme>
-  <programme start="20231001200000 -0300" stop="20231001203000 -0300" channel="ESPN 3">
+  <programme start="20231001200000 -0300" stop="20231001203000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League Stories</title>
   </programme>
-  <programme start="20231001203000 -0300" stop="20231001223000 -0300" channel="ESPN 3">
+  <programme start="20231001203000 -0300" stop="20231001223000 -0300" channel="ESPN 4">
     <title lang="pt">Copa da Liga Argentina: Boca Juniors x River Plate</title>
   </programme>
-  <programme start="20231001223000 -0300" stop="20231002003000 -0300" channel="ESPN 3">
+  <programme start="20231001223000 -0300" stop="20231002003000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League: Nottingham Forest x Brentford</title>
   </programme>
-  <programme start="20231002003000 -0300" stop="20231002023000 -0300" channel="ESPN 3">
+  <programme start="20231002003000 -0300" stop="20231002023000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Italiano: Atalanta x Juventus</title>
   </programme>
-  <programme start="20231002023000 -0300" stop="20231002023000 -0300" channel="ESPN 3">
+  <programme start="20231002023000 -0300" stop="20231002023000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Real Sociedad x Athletic Bilbao</title>
   </programme>
-  <programme start="20231002023000 -0300" stop="20231002043000 -0300" channel="ESPN 3">
+  <programme start="20231002023000 -0300" stop="20231002043000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Real Sociedad x Athletic Bilbao</title>
   </programme>
-  <programme start="20231002043000 -0300" stop="20231002050000 -0300" channel="ESPN 3">
+  <programme start="20231002043000 -0300" stop="20231002050000 -0300" channel="ESPN 4">
     <title lang="pt">MunDu Meneses</title>
   </programme>
-  <programme start="20231002050000 -0300" stop="20231002070000 -0300" channel="ESPN 3">
+  <programme start="20231002050000 -0300" stop="20231002070000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Atlético de Madrid x Cadiz</title>
   </programme>
-  <programme start="20231002070000 -0300" stop="20231002080000 -0300" channel="ESPN 3">
+  <programme start="20231002070000 -0300" stop="20231002080000 -0300" channel="ESPN 4">
     <title lang="pt">Bola da Vez</title>
   </programme>
-  <programme start="20231002080000 -0300" stop="20231002090000 -0300" channel="ESPN 3">
+  <programme start="20231002080000 -0300" stop="20231002090000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão</title>
   </programme>
-  <programme start="20231002090000 -0300" stop="20231002110000 -0300" channel="ESPN 3">
+  <programme start="20231002090000 -0300" stop="20231002110000 -0300" channel="ESPN 4">
     <title lang="pt">Conmebol Libertadores: Boca Juniors (ARG) x Palmeiras</title>
   </programme>
-  <programme start="20231002110000 -0300" stop="20231002125500 -0300" channel="ESPN 3">
+  <programme start="20231002110000 -0300" stop="20231002125500 -0300" channel="ESPN 4">
     <title lang="pt">Conmebol Sulamericana: Corinthians x Fortaleza</title>
   </programme>
-  <programme start="20231002125500 -0300" stop="20231002150000 -0300" channel="ESPN 3">
+  <programme start="20231002125500 -0300" stop="20231002150000 -0300" channel="ESPN 4">
     <title lang="pt">AFC Champions League: Sepahan (IRN) x Al Ittihad (SAU) - Ao Vivo</title>
   </programme>
-  <programme start="20231002150000 -0300" stop="20231002155000 -0300" channel="ESPN 3">
+  <programme start="20231002150000 -0300" stop="20231002155000 -0300" channel="ESPN 4">
     <title lang="pt">Resenha</title>
   </programme>
-  <programme start="20231002155000 -0300" stop="20231002180000 -0300" channel="ESPN 3">
+  <programme start="20231002155000 -0300" stop="20231002180000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Las Palmas x Celta - Ao Vivo</title>
   </programme>
-  <programme start="20231002180000 -0300" stop="20231002183000 -0300" channel="ESPN 3">
+  <programme start="20231002180000 -0300" stop="20231002183000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Campeonato Francês</title>
   </programme>
-  <programme start="20231002183000 -0300" stop="20231002193000 -0300" channel="ESPN 3">
+  <programme start="20231002183000 -0300" stop="20231002193000 -0300" channel="ESPN 4">
     <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20231002193000 -0300" stop="20231002200000 -0300" channel="ESPN 3">
+  <programme start="20231002193000 -0300" stop="20231002200000 -0300" channel="ESPN 4">
     <title lang="pt">Destaques da Conmebol Libertadores</title>
   </programme>
-  <programme start="20231002200000 -0300" stop="20231002203000 -0300" channel="ESPN 3">
+  <programme start="20231002200000 -0300" stop="20231002203000 -0300" channel="ESPN 4">
     <title lang="pt">Destaques da Conmebol Sulamericana</title>
   </programme>
-  <programme start="20231002203000 -0300" stop="20231002223000 -0300" channel="ESPN 3">
+  <programme start="20231002203000 -0300" stop="20231002223000 -0300" channel="ESPN 4">
     <title lang="pt">AFC Champions League: Al Nassr x Istiklol (TJK)</title>
   </programme>
-  <programme start="20231002223000 -0300" stop="20231003003000 -0300" channel="ESPN 3">
+  <programme start="20231002223000 -0300" stop="20231003003000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Barcelona x Sevilla</title>
   </programme>
-  <programme start="20231003003000 -0300" stop="20231003023000 -0300" channel="ESPN 3">
+  <programme start="20231003003000 -0300" stop="20231003023000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Italiano: Lecce x Napoli</title>
   </programme>
-  <programme start="20231003023000 -0300" stop="20231003023000 -0300" channel="ESPN 3">
+  <programme start="20231003023000 -0300" stop="20231003023000 -0300" channel="ESPN 4">
     <title lang="pt">Linha de Passe: Mesa-Redonda</title>
   </programme>
-  <programme start="20231003023000 -0300" stop="20231003040000 -0300" channel="ESPN 3">
+  <programme start="20231003023000 -0300" stop="20231003040000 -0300" channel="ESPN 4">
     <title lang="pt">Linha de Passe: Mesa-Redonda</title>
   </programme>
-  <programme start="20231003023000 -0300" stop="20231003033000 -0300" channel="ESPN 3">
+  <programme start="20231003023000 -0300" stop="20231003033000 -0300" channel="ESPN 4">
     <title lang="pt">Linha de Passe: Mesa-Redonda</title>
   </programme>
-  <programme start="20231003033000 -0300" stop="20231003033000 -0300" channel="ESPN 3">
+  <programme start="20231003033000 -0300" stop="20231003033000 -0300" channel="ESPN 4">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
-  <programme start="20231003040000 -0300" stop="20231003053000 -0300" channel="ESPN 3">
+  <programme start="20231003040000 -0300" stop="20231003053000 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP do Japão</title>
   </programme>
-  <programme start="20231003053000 -0300" stop="20231003060000 -0300" channel="ESPN 3">
+  <programme start="20231003053000 -0300" stop="20231003060000 -0300" channel="ESPN 4">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
-  <programme start="20231003060000 -0300" stop="20231003070000 -0300" channel="ESPN 3">
+  <programme start="20231003060000 -0300" stop="20231003070000 -0300" channel="ESPN 4">
     <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20231003070000 -0300" stop="20231003080000 -0300" channel="ESPN 3">
+  <programme start="20231003070000 -0300" stop="20231003080000 -0300" channel="ESPN 4">
     <title lang="pt">Bola da Vez</title>
   </programme>
-  <programme start="20231003080000 -0300" stop="20231003100000 -0300" channel="ESPN 3">
+  <programme start="20231003080000 -0300" stop="20231003100000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Italiano: Atalanta x Juventus</title>
   </programme>
-  <programme start="20231003100000 -0300" stop="20231003120000 -0300" channel="ESPN 3">
+  <programme start="20231003100000 -0300" stop="20231003120000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Atlético de Madrid x Cadiz</title>
   </programme>
-  <programme start="20231003120000 -0300" stop="20231003123000 -0300" channel="ESPN 3">
+  <programme start="20231003120000 -0300" stop="20231003123000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada da Premier League</title>
   </programme>
-  <programme start="20231003123000 -0300" stop="20231003143000 -0300" channel="ESPN 3">
+  <programme start="20231003123000 -0300" stop="20231003143000 -0300" channel="ESPN 4">
     <title lang="pt">AFC Champions League: Al Nassr x Istiklol (TJK)</title>
   </programme>
-  <programme start="20231003143000 -0300" stop="20231003150000 -0300" channel="ESPN 3">
+  <programme start="20231003143000 -0300" stop="20231003150000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Campeonato Francês</title>
   </programme>
-  <programme start="20231003150000 -0300" stop="20231003180000 -0300" channel="ESPN 3">
+  <programme start="20231003150000 -0300" stop="20231003180000 -0300" channel="ESPN 4">
     <title lang="pt">MLB: Baseball Fall Frenzy: Jogo 2 - Ao Vivo</title>
   </programme>
-  <programme start="20231003180000 -0300" stop="20231003183000 -0300" channel="ESPN 3">
+  <programme start="20231003180000 -0300" stop="20231003183000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Campeonato Italiano</title>
   </programme>
-  <programme start="20231003183000 -0300" stop="20231003190000 -0300" channel="ESPN 3">
+  <programme start="20231003183000 -0300" stop="20231003190000 -0300" channel="ESPN 4">
     <title lang="pt">MunDu Meneses</title>
   </programme>
-  <programme start="20231003190000 -0300" stop="20231003210000 -0300" channel="ESPN 3">
+  <programme start="20231003190000 -0300" stop="20231003210000 -0300" channel="ESPN 4">
     <title lang="pt">Conmebol Sulamericana: Fortaleza x Corinthians</title>
   </programme>
-  <programme start="20231003210000 -0300" stop="20231003230000 -0300" channel="ESPN 3">
+  <programme start="20231003210000 -0300" stop="20231003230000 -0300" channel="ESPN 4">
     <title lang="pt">AFC Champions League: Sepahan (IRN) x Al Ittihad (SAU)</title>
   </programme>
-  <programme start="20231003230000 -0300" stop="20231004010000 -0300" channel="ESPN 3">
+  <programme start="20231003230000 -0300" stop="20231004010000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League: Luton Town x Burnley</title>
   </programme>
-  <programme start="20231004010000 -0300" stop="20231004013000 -0300" channel="ESPN 3">
+  <programme start="20231004010000 -0300" stop="20231004013000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada do Campeonato Italiano</title>
   </programme>
-  <programme start="20231004013000 -0300" stop="20231004030000 -0300" channel="ESPN 3">
+  <programme start="20231004013000 -0300" stop="20231004030000 -0300" channel="ESPN 4">
     <title lang="pt">Linha de Passe: Mesa-Redonda</title>
   </programme>
-  <programme start="20231004030000 -0300" stop="20231004030000 -0300" channel="ESPN 3">
+  <programme start="20231004030000 -0300" stop="20231004030000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League: Nottingham Forest x Brentford</title>
   </programme>
-  <programme start="20231004030000 -0300" stop="20231004050000 -0300" channel="ESPN 3">
+  <programme start="20231004030000 -0300" stop="20231004050000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League: Nottingham Forest x Brentford</title>
   </programme>
-  <programme start="20231004050000 -0300" stop="20231004070000 -0300" channel="ESPN 3">
+  <programme start="20231004050000 -0300" stop="20231004070000 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Espanhol: Atlético de Madrid x Cadiz</title>
   </programme>
-  <programme start="20231004070000 -0300" stop="20231004080000 -0300" channel="ESPN 3">
+  <programme start="20231004070000 -0300" stop="20231004080000 -0300" channel="ESPN 4">
     <title lang="pt">Resenha</title>
   </programme>
-  <programme start="20231004080000 -0300" stop="20231004100000 -0300" channel="ESPN 3">
+  <programme start="20231004080000 -0300" stop="20231004100000 -0300" channel="ESPN 4">
     <title lang="pt">AFC Champions League: Nassaji Mazandaran x Al Hilal</title>
   </programme>
-  <programme start="20231004100000 -0300" stop="20231004120000 -0300" channel="ESPN 3">
+  <programme start="20231004100000 -0300" stop="20231004120000 -0300" channel="ESPN 4">
     <title lang="pt">Conmebol Sulamericana: Fortaleza x Corinthians</title>
   </programme>
-  <programme start="20231004120000 -0300" stop="20231004123000 -0300" channel="ESPN 3">
+  <programme start="20231004120000 -0300" stop="20231004123000 -0300" channel="ESPN 4">
     <title lang="pt">Show da Rodada da Premier League</title>
   </programme>
-  <programme start="20231004123000 -0300" stop="20231004133000 -0300" channel="ESPN 3">
+  <programme start="20231004123000 -0300" stop="20231004133000 -0300" channel="ESPN 4">
     <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20231004133000 -0300" stop="20231004154500 -0300" channel="ESPN 3">
+  <programme start="20231004133000 -0300" stop="20231004154500 -0300" channel="ESPN 4">
     <title lang="pt">UEFA Europa League: Olympique de Marseille x Brighton - Ao Vivo</title>
   </programme>
-  <programme start="20231004154500 -0300" stop="20231004180000 -0300" channel="ESPN 3">
+  <programme start="20231004154500 -0300" stop="20231004180000 -0300" channel="ESPN 4">
     <title lang="pt">UEFA Europa League: Roma x Servette - Ao Vivo</title>
   </programme>
-  <programme start="20231004180000 -0300" stop="20231004200000 -0300" channel="ESPN 3">
+  <programme start="20231004180000 -0300" stop="20231004200000 -0300" channel="ESPN 4">
     <title lang="pt">UEFA Europa League: Sporting x Atalanta</title>
   </programme>
 </tv>
