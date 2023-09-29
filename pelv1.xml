@@ -92,6 +92,7 @@
   </channel>
   <channel id="ESPN 2">
     <display-name lang="pt">ESPN 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/esp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="ESPN 4">
@@ -4611,9 +4612,6 @@
   <programme start="20231004203100 -0300" stop="20231004205600 -0300" channel="Warner Channel">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20230929150000 -0300" stop="20230929170000 -0300" channel="Band Sports">
-    <title lang="pt">Al Hilal x Al Shabab - Campeonato Saudita de Futebol : Al Hilal x Al Shabab</title>
-  </programme>
   <programme start="20230929170000 -0300" stop="20230929180000 -0300" channel="Band Sports">
     <title lang="pt">Tour da Bola</title>
   </programme>
@@ -5189,6 +5187,321 @@
   </programme>
   <programme start="20231005190000 -0300" stop="20231005200000 -0300" channel="ESPN">
     <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20230929154500 -0300" stop="20230929180000 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Itália - Ao Vivo</title>
+  </programme>
+  <programme start="20230929180000 -0300" stop="20230929190000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN FC</title>
+  </programme>
+  <programme start="20230929190000 -0300" stop="20230929200000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20230929200000 -0300" stop="20230929230000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Tampa Bay Rays x Toronto Blue Jays - Ao Vivo</title>
+  </programme>
+  <programme start="20230929230000 -0300" stop="20230929233000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada do Espanhol</title>
+  </programme>
+  <programme start="20230929233000 -0300" stop="20230930003000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20230930003000 -0300" stop="20230930013000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20230930013000 -0300" stop="20230930033000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Espanhol: Barcelona x Sevilla</title>
+  </programme>
+  <programme start="20230930033000 -0300" stop="20230930033000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques: Copa do Mundo de Rugby</title>
+  </programme>
+  <programme start="20230930033000 -0300" stop="20230930040000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques: Copa do Mundo de Rugby</title>
+  </programme>
+  <programme start="20230930040000 -0300" stop="20230930060000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Inglês 2ª Divisão: Sheffield Wednesday x Sunderland</title>
+  </programme>
+  <programme start="20230930060000 -0300" stop="20230930063000 -0300" channel="ESPN 2">
+    <title lang="pt">Spirit of Yachting: TP52 World Championship</title>
+  </programme>
+  <programme start="20230930063000 -0300" stop="20230930084500 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Itália</title>
+  </programme>
+  <programme start="20230930084500 -0300" stop="20230930094500 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20230930094500 -0300" stop="20230930115500 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: Argentina x Chile - Ao Vivo</title>
+  </programme>
+  <programme start="20230930115500 -0300" stop="20230930140000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Francês: Clermont x Paris Saint-Germain - Ao Vivo</title>
+  </programme>
+  <programme start="20230930140000 -0300" stop="20230930143000 -0300" channel="ESPN 2">
+    <title lang="pt">F1: The Inside Line</title>
+  </programme>
+  <programme start="20230930143000 -0300" stop="20230930153000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20230930153000 -0300" stop="20230930155000 -0300" channel="ESPN 2">
+    <title lang="pt">Momento ESPN: Canelo Alvarez x Jermell Charlo</title>
+  </programme>
+  <programme start="20230930155000 -0300" stop="20230930180000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Espanhol: Real Sociedad x Athletic Bilbao - Ao Vivo</title>
+  </programme>
+  <programme start="20230930180000 -0300" stop="20230930190000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques da Laver Cup 2023</title>
+  </programme>
+  <programme start="20230930190000 -0300" stop="20230930210000 -0300" channel="ESPN 2">
+    <title lang="pt">Premier League: Tottenham x Liverpool</title>
+  </programme>
+  <programme start="20230930210000 -0300" stop="20231001010000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN Knockout: Canelo Alvarez x Jermell Charlo - Ao Vivo</title>
+  </programme>
+  <programme start="20231001010000 -0300" stop="20231001020000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231001020000 -0300" stop="20231001030000 -0300" channel="ESPN 2">
+    <title lang="pt">Laver Cup 2023 Review Show</title>
+  </programme>
+  <programme start="20231001030000 -0300" stop="20231001033000 -0300" channel="ESPN 2">
+    <title lang="pt">F1: The Inside Line</title>
+  </programme>
+  <programme start="20231001033000 -0300" stop="20231001033000 -0300" channel="ESPN 2">
+    <title lang="pt">Premier League: Manchester United x Crystal Palace</title>
+  </programme>
+  <programme start="20231001033000 -0300" stop="20231001053000 -0300" channel="ESPN 2">
+    <title lang="pt">Premier League: Manchester United x Crystal Palace</title>
+  </programme>
+  <programme start="20231001053000 -0300" stop="20231001072500 -0300" channel="ESPN 2">
+    <title lang="pt">Premier League: Bournemouth x Arsenal</title>
+  </programme>
+  <programme start="20231001072500 -0300" stop="20231001082500 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231001082500 -0300" stop="20231001103000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Inglês Feminino: Aston Villa x Manchester United - Ao Vivo</title>
+  </programme>
+  <programme start="20231001103000 -0300" stop="20231001123000 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: Argentina x Chile</title>
+  </programme>
+  <programme start="20231001123000 -0300" stop="20231001133000 -0300" channel="ESPN 2">
+    <title lang="pt">Laver Cup 2023 Review Show</title>
+  </programme>
+  <programme start="20231001133000 -0300" stop="20231001140000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20231001140000 -0300" stop="20231001170000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Miami Dolphins x Buffalo Bills - Ao Vivo</title>
+  </programme>
+  <programme start="20231001170000 -0300" stop="20231001172500 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20231001172500 -0300" stop="20231001203000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: New England Patriots x Dallas Cowboys - Ao Vivo</title>
+  </programme>
+  <programme start="20231001203000 -0300" stop="20231001211500 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20231001211500 -0300" stop="20231002003000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Kansas City Chiefs x New York Jets - Ao Vivo</title>
+  </programme>
+  <programme start="20231002003000 -0300" stop="20231002020000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231002020000 -0300" stop="20231002020000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Baltimore Ravens x Cleveland Browns</title>
+  </programme>
+  <programme start="20231002020000 -0300" stop="20231002043000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Baltimore Ravens x Cleveland Browns</title>
+  </programme>
+  <programme start="20231002043000 -0300" stop="20231002060000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231002060000 -0300" stop="20231002080000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Italiano: Roma x Frosinone</title>
+  </programme>
+  <programme start="20231002080000 -0300" stop="20231002120000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: ATP 500: Beijing - Ao Vivo</title>
+  </programme>
+  <programme start="20231002120000 -0300" stop="20231002123000 -0300" channel="ESPN 2">
+    <title lang="pt">ATP Uncovered</title>
+  </programme>
+  <programme start="20231002123000 -0300" stop="20231002133000 -0300" channel="ESPN 2">
+    <title lang="pt">Bola da Vez</title>
+  </programme>
+  <programme start="20231002133000 -0300" stop="20231002143000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231002143000 -0300" stop="20231002150000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques: Copa do Mundo de Rugby</title>
+  </programme>
+  <programme start="20231002150000 -0300" stop="20231002173000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Atlanta Falcons x Jacksonville Jaguars</title>
+  </programme>
+  <programme start="20231002173000 -0300" stop="20231002180000 -0300" channel="ESPN 2">
+    <title lang="pt">F1: The Inside Line</title>
+  </programme>
+  <programme start="20231002180000 -0300" stop="20231002190000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN FC</title>
+  </programme>
+  <programme start="20231002190000 -0300" stop="20231002200000 -0300" channel="ESPN 2">
+    <title lang="pt">Compacto NFL</title>
+  </programme>
+  <programme start="20231002200000 -0300" stop="20231002210000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20231002210000 -0300" stop="20231002211500 -0300" channel="ESPN 2">
+    <title lang="pt">NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20231002211500 -0300" stop="20231003001500 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Seattle Seahawks x New York Giants - Ao Vivo</title>
+  </programme>
+  <programme start="20231003001500 -0300" stop="20231003011500 -0300" channel="ESPN 2">
+    <title lang="pt">Compacto NFL</title>
+  </programme>
+  <programme start="20231003011500 -0300" stop="20231003021500 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231003021500 -0300" stop="20231003023000 -0300" channel="ESPN 2">
+    <title lang="pt">Momento ESPN: Especial Davi Belfort</title>
+  </programme>
+  <programme start="20231003023000 -0300" stop="20231003023000 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: África do Sul x Tonga</title>
+  </programme>
+  <programme start="20231003023000 -0300" stop="20231003043000 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: África do Sul x Tonga</title>
+  </programme>
+  <programme start="20231003043000 -0300" stop="20231003053000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231003053000 -0300" stop="20231003073000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: ATP 500: Beijing - Ao Vivo</title>
+  </programme>
+  <programme start="20231003073000 -0300" stop="20231003083000 -0300" channel="ESPN 2">
+    <title lang="pt">Laver Cup 2023 Review Show</title>
+  </programme>
+  <programme start="20231003083000 -0300" stop="20231003103000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: ATP 500: Beijing - Ao Vivo</title>
+  </programme>
+  <programme start="20231003103000 -0300" stop="20231003130000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Seattle Seahawks x New York Giants</title>
+  </programme>
+  <programme start="20231003130000 -0300" stop="20231003140000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20231003140000 -0300" stop="20231003150000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231003150000 -0300" stop="20231003170000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Espanhol: Barcelona x Sevilla</title>
+  </programme>
+  <programme start="20231003170000 -0300" stop="20231003200000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Baseball Fall Frenzy: Jogo 1 - Ao Vivo</title>
+  </programme>
+  <programme start="20231003200000 -0300" stop="20231003230000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Baseball Fall Frenzy: Jogo 1 - Ao Vivo</title>
+  </programme>
+  <programme start="20231003230000 -0300" stop="20231004000000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN FC</title>
+  </programme>
+  <programme start="20231004000000 -0300" stop="20231004020000 -0300" channel="ESPN 2">
+    <title lang="pt">Campeonato Espanhol: Girona x Real Madrid</title>
+  </programme>
+  <programme start="20231004020000 -0300" stop="20231004023000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques da Conmebol Libertadores</title>
+  </programme>
+  <programme start="20231004023000 -0300" stop="20231004030000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques da Conmebol Sulamericana</title>
+  </programme>
+  <programme start="20231004030000 -0300" stop="20231004030000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231004030000 -0300" stop="20231004040000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231004040000 -0300" stop="20231004060000 -0300" channel="ESPN 2">
+    <title lang="pt">Premier League: Fulham x Chelsea</title>
+  </programme>
+  <programme start="20231004060000 -0300" stop="20231004070000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231004070000 -0300" stop="20231004080000 -0300" channel="ESPN 2">
+    <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20231004080000 -0300" stop="20231004083000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada do Campeonato Francês</title>
+  </programme>
+  <programme start="20231004083000 -0300" stop="20231004103000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: ATP 500: Beijing - Ao Vivo</title>
+  </programme>
+  <programme start="20231004103000 -0300" stop="20231004113000 -0300" channel="ESPN 2">
+    <title lang="pt">Compacto NFL: Kansas City Chiefs x New York Jets</title>
+  </programme>
+  <programme start="20231004113000 -0300" stop="20231004133000 -0300" channel="ESPN 2">
+    <title lang="pt">Conmebol Sulamericana: Fortaleza x Corinthians</title>
+  </programme>
+  <programme start="20231004133000 -0300" stop="20231004143000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231004143000 -0300" stop="20231004150000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada do Espanhol</title>
+  </programme>
+  <programme start="20231004150000 -0300" stop="20231004170000 -0300" channel="ESPN 2">
+    <title lang="pt">AFC Champions League: Nassaji Mazandaran x Al Hilal</title>
+  </programme>
+  <programme start="20231004170000 -0300" stop="20231004200000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Baseball Fall Frenzy: Jogo 1 - Ao Vivo</title>
+  </programme>
+  <programme start="20231004200000 -0300" stop="20231004230000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Baseball Fall Frenzy: Jogo 1 - Ao Vivo</title>
+  </programme>
+  <programme start="20231004230000 -0300" stop="20231005000000 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN FC</title>
+  </programme>
+  <programme start="20231005000000 -0300" stop="20231005003000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada da Premier League</title>
+  </programme>
+  <programme start="20231005003000 -0300" stop="20231005023000 -0300" channel="ESPN 2">
+    <title lang="pt">Premier League: Wolverhampton x Manchester City</title>
+  </programme>
+  <programme start="20231005023000 -0300" stop="20231005033000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231005033000 -0300" stop="20231005033000 -0300" channel="ESPN 2">
+    <title lang="pt">Compacto NFL</title>
+  </programme>
+  <programme start="20231005033000 -0300" stop="20231005043000 -0300" channel="ESPN 2">
+    <title lang="pt">Compacto NFL</title>
+  </programme>
+  <programme start="20231005043000 -0300" stop="20231005053000 -0300" channel="ESPN 2">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20231005053000 -0300" stop="20231005073000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: ATP 500: Beijing</title>
+  </programme>
+  <programme start="20231005073000 -0300" stop="20231005113000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: ATP 1000 de Shanghai - Ao Vivo</title>
+  </programme>
+  <programme start="20231005113000 -0300" stop="20231005133000 -0300" channel="ESPN 2">
+    <title lang="pt">AFC Champions League: Al Nassr x Istiklol (TJK)</title>
+  </programme>
+  <programme start="20231005133000 -0300" stop="20231005154500 -0300" channel="ESPN 2">
+    <title lang="pt">UEFA Europa League: Sporting x Atalanta - Ao Vivo</title>
+  </programme>
+  <programme start="20231005154500 -0300" stop="20231005180000 -0300" channel="ESPN 2">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Uruguai - Ao Vivo</title>
+  </programme>
+  <programme start="20231005180000 -0300" stop="20231005183000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques: Copa do Mundo de Rugby</title>
+  </programme>
+  <programme start="20231005183000 -0300" stop="20231005184500 -0300" channel="ESPN 2">
+    <title lang="pt">Momento ESPN: Especial Davi Belfort</title>
+  </programme>
+  <programme start="20231005184500 -0300" stop="20231005194500 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN FC</title>
+  </programme>
+  <programme start="20231005194500 -0300" stop="20231005204500 -0300" channel="ESPN 2">
+    <title lang="pt">Compacto NFL: Seattle Seahawks x New York Giants</title>
   </programme>
   <programme start="20230929160000 -0300" stop="20230929181500 -0300" channel="ESPN 4">
     <title lang="pt">Campeonato Português: Benfica x FC Porto - Ao Vivo</title>
